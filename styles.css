@@ -75,19 +75,46 @@ body {
 	overflow-x: hidden;
 }
 
-.chatboxleft {
+.chattitlebox {
 	background: rgba(72, 55, 35, 0.1);
 	border: 1.5px solid #483723;
-	border-radius: 5px;
+	border-radius: 0px;
 	display: inline-block;
+	width: 300px;
+	height: auto;
+	padding: 5px;
+	max-width: 450px;
+	text-align: center;
+	font-size: 16px;
+}
+
+.chattitlenamebox {
+	background: rgba(72, 55, 35, 0.1);
+	border: 1.5px solid #483723;
+	border-radius: 0px;
+	display: inline-block;
+	width: 260px;
+	height: auto;
+	padding: 5px;
+	max-width: 450px;
+	text-align: center;
+	font-size: 16px;
+}
+
+.chatboxleft2 {
+	background: rgba(11, 71, 18, 0.1);
+	border: 1.5px solid #042b09;
+	border-radius: 0px;
+	display: inline-flex;
 	width: auto;
 	height: auto;
 	padding: 10px;
-	padding-top: 5px;
+	padding-top: 6px;
 	max-width: 450px;
 	text-align: left;
 	font-size: 20px;
 }
+
 
 .chatboxsusernames {
 	background: rgba(0, 0, 0, 0);
@@ -100,18 +127,18 @@ body {
 	text-size: 5px;
 }
 
-.chatboxright {
+.titlebox {
 	background: rgba(66, 118, 120, 0.1);
 	border: 1.5px solid #2a4647;
-	border-radius: 5px;
+	border-radius: 0px;
 	display: inline-block;
-	width: auto;
+	width: 400px;
 	height: auto;
 	padding: 10px;
-	padding-top: 5px;
+	padding-top: 6px;
 	max-width: 450px;
-	text-align: left;
-	font-size: 20px;
+	text-align: center;
+	font-size: 16px;
 }
 
 .socialmediaicons {
