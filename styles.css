@@ -75,7 +75,20 @@ body {
 	overflow-x: hidden;
 }
 
-.chattitlebox {
+.chattitleboxjudy {
+	background: rgba(72, 55, 35, 0.1);
+	border: 1.5px solid #483723;
+	border-radius: 0px;
+	display: inline-block;
+	width: 300px;
+	height: auto;
+	padding: 5px;
+	max-width: 450px;
+	text-align: center;
+	font-size: 16px;
+}
+
+.chattitleboxpanam {
 	background: rgba(72, 55, 35, 0.1);
 	border: 1.5px solid #483723;
 	border-radius: 0px;
