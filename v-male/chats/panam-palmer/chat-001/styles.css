@@ -1,0 +1,173 @@
+body {
+	overflow: hidden;
+	background: url("https://i.imgur.com/uCET5G0.png");
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 1080px;
+}
+
+.rexxcredits {
+	width: 800px;
+	margin-top: -68px;
+	margin-left: auto;
+	margin-right: auto;
+	font-size: 10px;
+	text-align: center;
+}
+
+.contactnamecontainer {
+	background-image: url("judy_chat_001/images/chatheader.png");
+	background-repeat: no-repeat;
+	height: 39px;
+	width: 889px;
+	padding: 5px;
+	margin-top: 120px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: auto;
+	font-size: 25px;
+	position: relative;
+	left: -38px
+	
+}
+
+.chatboxleftborder {
+	margin-left: -25px;
+	margin-top: -5px;
+	position: absolute;
+}
+
+.messageicon {
+	margin-left: -80px;
+	position: absolute;
+}
+
+.chatidtextcontainer {
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 15px;
+	height: 15px;
+	width: 798px;
+	font-size: 15px;
+	padding: 2px;
+}
+
+.chatcontainerbackground {
+	background: url("judy_chat_001/images/chatboxbackground.png");
+	background-repeat: no-repeat;
+	height: 598px;
+	width: 800px;
+	margin: auto;
+}
+
+.chatcontainer {
+	margin-top: 0px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 100px;
+	padding-left: 5px;
+	padding-right: 5px;
+	padding-bottom: 0px;
+	padding-top: 5px;
+	height: 545px;
+	width: 790px;
+	overflow: scroll;
+	overflow-x: hidden;
+}
+
+.chatboxleft {
+	background: rgba(72, 55, 35, 0.1);
+	border: 1.5px solid #483723;
+	border-radius: 0px;
+	display: inline-flex;
+	width: auto;
+	height: auto;
+	padding: 10px;
+	padding-top: 6px;
+	max-width: 450px;
+	text-align: left;
+	font-size: 20px;
+}
+
+.chatboxleft2 {
+	background: rgba(11, 71, 18, 0.1);
+	border: 1.5px solid #042b09;
+	border-radius: 0px;
+	display: inline-flex;
+	width: auto;
+	height: auto;
+	padding: 10px;
+	padding-top: 6px;
+	max-width: 450px;
+	text-align: left;
+	font-size: 20px;
+}
+
+
+.chatboxsusernames {
+	background: rgba(0, 0, 0, 0);
+	border-radius: 5px;
+	display: inline-block;
+	width: auto;
+	height: auto;
+	padding: 2px;
+	text-align: left;
+	text-size: 5px;
+}
+
+.chatboxright {
+	background: rgba(66, 118, 120, 0.1);
+	border: 1.5px solid #2a4647;
+	border-radius: 0px;
+	display: inline-flex;
+	width: auto;
+	height: auto;
+	padding: 10px;
+	padding-top: 6px;
+	max-width: 450px;
+	text-align: left;
+	font-size: 20px;
+}
+
+.chatboxleftimage {
+	background-image: url("judy_chat_001/images/bdreef.jpeg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-posistion: center;
+	border: 1.5px solid #483723;
+	border-radius: 0px;
+	display: inline-block;
+	width: 420px;
+	height: 210px;
+	padding: 10px;
+	padding-top: 6px;
+	max-width: 380px;
+	text-align: left;
+	font-size: 20px;
+}
+
+.socialmediaicons {
+text-align: center;
+}
+
+.versioninfo {
+	position: absolute;
+	margin-left: 0px;
+	margin-top: 5px;
+}
+
+.trnclass {
+	position: absolute;
+	margin-left: -89px;
+	margin-top: -690px;
+	font-size: 12px;
+}
+
+.backtoindex {
+	
+	position: absolute;
+	margin-left: 670px;
+	margin-top: 5px;
+	font-size: 15px;
+	padding: 2px;
+}
