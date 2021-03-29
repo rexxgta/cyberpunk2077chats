@@ -170,3 +170,12 @@ text-align: center;
 	margin-top: -690px;
 	font-size: 12px;
 }
+
+.backtomainpage {
+	
+	position: absolute;
+	margin-left: 670px;
+	margin-top: 5px;
+	font-size: 15px;
+	padding: 2px;
+}
