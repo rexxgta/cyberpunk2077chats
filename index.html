@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="max-width=1024">
 <title>Cyberpunk 2077 Chats by REXX</title>
-<link rel="shortcut icon" type="image/ico" href="images/favicon.ico">
+<link rel="shortcut icon" type="image/ico" href="https://raw.githubusercontent.com/rexxgta/cyberpunk2077chat-global-files/main/images/favicon.ico">
 <style type="text/css">
 @import url("styles.css");
 </style>
@@ -76,15 +76,47 @@ a:visited {
 a:hover {
     color: #f9d066;
     background-color: transparent;
-    text-decoration: underline;
 }
 a:active {
     color: #f9d066;
     background-color: transparent;
-    text-decoration: underline;
 }
 </style>
-<!--STYLES END-->
+<!-- BUTTONS-->
+<style>
+.button {
+    border: none;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    height: auto;
+    width: 200px;
+    font-size: 16px;
+    margin: 4px 2px;
+    transition-duration: 0.1s;
+    cursor: pointer;
+    font-family: BlenderPro;
+    outline: none;
+}
+.button1 {
+    background-color: rgba(72, 55, 35, 0.1);
+    color: #f9d066;
+    border: 1.5px solid #483723;
+}
+.button1:hover {
+    background-color: rgba(72, 55, 35, 0.8);
+    color: #f9d066;
+}
+</style>
+<!--STYLES END--> 
+<!-- SCRIPTS--> 
+<script>
+function myFunction() {
+  document.getElementById("demo").innerHTML = "Hello World";
+}
+</script>
 </head>
 <body>
 <!-- CONTACT NAME BAR -->
@@ -97,7 +129,7 @@ a:active {
 </div>
 <!-- CHAT ID TEXT -->
 <div class="chatidtextcontainer">
-  <div style="color: #b93a31"> RTTI_DECLARE_TYPE( JournalPhoneMessageIndex ) </div>
+  <div style="color: #b93a31"> RTTI_DECLARE_TYPE( JournalPhoneMainPage ) </div>
 </div>
 <!-- CHAT BOX PARAMATERS -->
 <div class="chatcontainerbackground">
@@ -109,6 +141,7 @@ a:active {
       <div class="messageicon"> <img src="images/messageicon.png" alt="messageicon"> </div>
       <!-- INDEX TEXT --> 
       <br>
+      <br>
       <div class="centeralign">
         <div style="color: #7aeaee">
           <div class="titlebox"> HEY THERE, CHOOM! </div>
@@ -117,50 +150,32 @@ a:active {
         <div style="color: #7aeaee">
           <div class="chatboxusernames"> Welcome to Cyberpunk 2077 Chats. </div>
           <br>
-          <div class="chatboxusernames"> Here you will find fan-made chats between characters from Cyberpunk 2077 using a custom UI based on that seen in the Cyberpunk 2077 video game. This page is an index that contains links to all of the currently available chats. </div>
+          <div class="chatboxusernames"> Here you will find fan-made chats between characters from Cyberpunk 2077 using a custom UI based on that seen in the Cyberpunk 2077 video game. This project is of course, a work in progress and there is still a lot to do. However, I do hope you enjoy reading the chats I have created. </div>
           <br>
-          <div class="chatboxusernames"> This index page will be updated periodically with new chats. You can also keep updated by following me on Twitter <a href="https://twitter.com/rexxgta" target="_blank"> @rexxgta </a> </div>
+          <div class="chatboxusernames"> Cyberpunk 2077 Chats will be updated periodically. You can also keep updated by following me on Twitter <a href="https://twitter.com/rexxgta" target="_blank"> @rexxgta </a> </div>
         </div>
         <br>
         <br>
         <div style="color: #7aeaee">
-          <div class="titlebox"> WORK IN PROGRESS </div>
+          <div class="titlebox"> CHATS </div>
         </div>
         <br>
-        <div style="color: #7aeaee"> The Cyberpunk 2077 chats are of course, a work in progress. I am constantly working on ways to improve the layout and design which shall make it easier to browse. Don't worry if one day you visit and everything is all over the place... that's just me being a gonk and probably messed something up. </div>
+        <div style="color: #7aeaee"> Chats are classed into V (Female) and V (Male). To begin, simply choose which gender of V you'd like to read as. Chats with specific characters will change depending on V's gender. If a character can be romanced by the chosen gender, separate chats will be made with different dialogues. </div>
       </div>
       <br>
       <br>
       <div class="centeralign">
-        <div style="color: #7aeaee">
-          <div class="titlebox"> CHATS (V - FEMALE) </div>
-        </div>
+        <button class="button button1">
+        <a href="https://twitter.com/rexxgta" target="_blank">V (FEMALE) </a>
+        </button>
       </div>
       <br>
       <div class="centeralign">
-        <div style="color: #f9d066">
-          <div class="chattitleboxjudy">
-            <div class="chattitlenamebox">JUDY ALVAREZ</div>
-            <br>
-            <br>
-            <a href="https://rexxgta.github.io/cyberpunk2077chat-judyalvarez-001/">Chat 001</a> <br>
-            <a href="https://rexxgta.github.io/cyberpunk2077chat-judyalvarez-002/">Chat 002</a> <br>
-            <a href="https://rexxgta.github.io/cyberpunk2077chat-judyalvarez-003/">Chat 003</a> </div>
-          <br>
-        </div>
+        <button class="button button1">
+        <a href="https://twitter.com/rexxgta" target="_blank">V (MALE)</a>
+        </button>
       </div>
-      <br>
-      <div class="centeralign">
-        <div style="color: #f9d066">
-          <div class="chattitleboxpanam">
-            <div class="chattitlenamebox">PANAM PALMER</div>
-            <br>
-            <br>
-            <a href="https://rexxgta.github.io/cyberpunk2077chat-panampalmer-001/">Chat 001</a> </div>
-          <br>
-        </div>
-      </div>
-      <br>
+      <!-- BUTTONS--> 
       
       <!-- CHAT BOX PARAMETERS END --> 
     </div>
@@ -171,7 +186,7 @@ a:active {
   </div>
   <!-- VERSION INFO -->
   <div class="versioninfo">
-    <div style="color: #b93a31"> [ VERSION 1.00 ] </div>
+    <div style="color: #b93a31"> [ VERSION 1.00a ] </div>
   </div>
   
   <!-- TRN CLASS TEXT -->
@@ -181,6 +196,6 @@ a:active {
   <!-- CONTAINER BACKGROUND END --> 
 </div>
 <br>
-<div class="socialmediaicons"> <a href="https://twitter.com/rexxgta" target="_blank"> <img src="images/socialmediaicons/twitter.png" alt="twitter"/> </a> </div>
+<div class="socialmediaicons"> <a href="https://twitter.com/rexxgta" target="_blank"> <img src="https://github.com/rexxgta/cyberpunk2077chat-global-files/blob/main/images/socialmediaicons/twitter.png?raw=true" alt="twitter"/> </a> </div>
 </body>
 </html>
