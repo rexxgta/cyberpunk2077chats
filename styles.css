@@ -16,7 +16,7 @@ body {
 }
 
 .contactnamecontainer {
-	background-image: url("images/chatheader.png");
+	background-image: url("https://raw.githubusercontent.com/rexxgta/cyberpunk2077chat-global-files/main/images/chatheader.png");
 	background-repeat: no-repeat;
 	height: 39px;
 	width: 889px;
@@ -53,7 +53,7 @@ body {
 }
 
 .chatcontainerbackground {
-	background: url("images/chatboxbackground.png");
+	background: url("https://raw.githubusercontent.com/rexxgta/cyberpunk2077chat-global-files/main/images/chatboxbackground.png");
 	background-repeat: no-repeat;
 	height: 598px;
 	width: 800px;
