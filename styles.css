@@ -73,32 +73,7 @@ body {
 	width: 790px;
 	overflow: scroll;
 	overflow-x: hidden;
-}
-
-.chattitleboxjudy {
-	background: rgba(72, 55, 35, 0.1);
-	border: 1.5px solid #483723;
-	border-radius: 0px;
-	display: inline-block;
-	width: 300px;
-	height: auto;
-	padding: 5px;
-	max-width: 450px;
-	text-align: center;
-	font-size: 16px;
-}
-
-.chattitleboxpanam {
-	background: rgba(72, 55, 35, 0.1);
-	border: 1.5px solid #483723;
-	border-radius: 0px;
-	display: inline-block;
-	width: 300px;
-	height: auto;
-	padding: 5px;
-	max-width: 450px;
-	text-align: center;
-	font-size: 16px;
+	
 }
 
 .chattitlenamebox {
@@ -113,21 +88,6 @@ body {
 	text-align: center;
 	font-size: 16px;
 }
-
-.chatboxleft2 {
-	background: rgba(11, 71, 18, 0.1);
-	border: 1.5px solid #042b09;
-	border-radius: 0px;
-	display: inline-flex;
-	width: auto;
-	height: auto;
-	padding: 10px;
-	padding-top: 6px;
-	max-width: 450px;
-	text-align: left;
-	font-size: 20px;
-}
-
 
 .chatboxsusernames {
 	background: rgba(0, 0, 0, 0);
