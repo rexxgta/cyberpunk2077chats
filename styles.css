@@ -8,6 +8,7 @@ body {
 
 html, body {
 	cursor: url("https://raw.githubusercontent.com/rexxgta/cyberpunk2077chat-global-files/main/cursors/cursor_001.png"), default;
+	cursor: pointer; url("https://raw.githubusercontent.com/rexxgta/cyberpunk2077chat-global-files/main/cursors/cursor_001_hover.png"), default;
 	
 }
 
