@@ -6,6 +6,9 @@ body {
 	height: 1080px;
 }
 
+html, body {
+	cursor: url("https://raw.githubusercontent.com/rexxgta/cyberpunk2077chat-global-files/main/cursors/cursor_001.png"), default;
+
 .rexxcredits {
 	width: 800px;
 	margin-top: -68px;
