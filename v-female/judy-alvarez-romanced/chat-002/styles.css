@@ -1,6 +1,6 @@
 body {
 	overflow: hidden;
-	background: url("../../images/backgroundimage.png");
+	background: url("https://i.imgur.com/uCET5G0.png");
 	background-repeat: no-repeat;
 	background-size: cover;
 	height: 1080px;
@@ -16,7 +16,7 @@ body {
 }
 
 .contactnamecontainer {
-	background-image: url("../../images/chatheader.png");
+	background-image: url("https://raw.githubusercontent.com/rexxgta/cyberpunk2077chat-global-files/main/images/chatheader.png");
 	background-repeat: no-repeat;
 	height: 39px;
 	width: 889px;
@@ -53,7 +53,7 @@ body {
 }
 
 .chatcontainerbackground {
-	background: url("../../images/chatboxbackground.png");
+	background: url("https://raw.githubusercontent.com/rexxgta/cyberpunk2077chat-global-files/main/images/chatboxbackground.png");
 	background-repeat: no-repeat;
 	height: 598px;
 	width: 800px;
@@ -78,7 +78,7 @@ body {
 .chatboxleft {
 	background: rgba(72, 55, 35, 0.1);
 	border: 1.5px solid #483723;
-	border-radius: 5px;
+	border-radius: 0px;
 	display: inline-flex;
 	width: auto;
 	height: auto;
@@ -92,7 +92,7 @@ body {
 .chatboxleft2 {
 	background: rgba(11, 71, 18, 0.1);
 	border: 1.5px solid #042b09;
-	border-radius: 5px;
+	border-radius: 0px;
 	display: inline-flex;
 	width: auto;
 	height: auto;
@@ -118,7 +118,7 @@ body {
 .chatboxright {
 	background: rgba(66, 118, 120, 0.1);
 	border: 1.5px solid #2a4647;
-	border-radius: 5px;
+	border-radius: 0px;
 	display: inline-flex;
 	width: auto;
 	height: auto;
@@ -130,12 +130,12 @@ body {
 }
 
 .chatboxleftimage {
-	background-image: url("../judy_chat_001/images/bdreef.jpeg");
+	background-image: url("images/bdreef.jpeg");
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-posistion: center;
 	border: 1.5px solid #483723;
-	border-radius: 5px;
+	border-radius: 0px;
 	display: inline-block;
 	width: 420px;
 	height: 210px;
@@ -161,4 +161,13 @@ text-align: center;
 	margin-left: -89px;
 	margin-top: -690px;
 	font-size: 12px;
+}
+
+.backtochats {
+	
+	position: absolute;
+	margin-left: 671px;
+	margin-top: 5px;
+	font-size: 15px;
+	padding: 2px;
 }
