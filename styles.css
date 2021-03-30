@@ -4,12 +4,8 @@ body {
 	background-repeat: no-repeat;
 	background-size: cover;
 	height: 1080px;
-}
-
-html, body {
 	cursor: url("https://raw.githubusercontent.com/rexxgta/cyberpunk2077chat-global-files/main/cursors/cursor_001.png"), default;
-	cursor: pointer; url("https://raw.githubusercontent.com/rexxgta/cyberpunk2077chat-global-files/main/cursors/cursor_001_hover.png"), default;
-	
+		
 }
 
 .rexxcredits {
