@@ -6,16 +6,6 @@ body {
 	height: 1080px;
 }
 
-html, body {
-	cursor: url("https://raw.githubusercontent.com/rexxgta/cyberpunk2077chat-global-files/main/cursors/cursor_001.png"), default;
-   
-}
-
-li.hover {
-	cursor: pointer; url("https://raw.githubusercontent.com/rexxgta/cyberpunk2077chat-global-files/main/cursors/cursor_001_hover.png"), default;
-	
-}
-
 .rexxcredits {
 	width: 800px;
 	margin-top: -68px;
