@@ -87,6 +87,7 @@ body {
 	padding: 10px;
 	padding-top: 6px;
 	max-width: 450px;
+	max-height: 99999px;
 	text-align: left;
 	font-size: 20px;
 }
