@@ -5,16 +5,7 @@ body {
 	background-repeat: no-repeat;
 	background-size: cover;
 	height: 1080px;
-	cursor: url("cursors/cursor.cur"), auto;
-	cursor: url("cursors/cursor.cur"), pointer;
 	
-}
-
-html {
-    cursor: url("global_files/cursors/cursor.cur"), auto;
-}
-
-		
 }
 
 .rexxcredits {
