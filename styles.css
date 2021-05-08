@@ -9,7 +9,8 @@ body {
 }
 
 html {
-	cursor: url("https://github.com/rexxgta/cyberpunk2077chats/blob/main/cursors/cursor.cur"), default;
+	cursor: url("https://github.com/rexxgta/cyberpunk2077chats/blob/main/cursors/cursor.cur"), auto;
+	cursor: url("https://github.com/rexxgta/cyberpunk2077chats/blob/main/cursors/cursor_hover.cur"), pointer;
 }
 
 .rexxcredits {
