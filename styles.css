@@ -9,8 +9,7 @@ body {
 }
 
 html {
-	cursor: url("cursors/cursor.cur"), default;
-	cursor: url("cursors/cursor_hover.cur"), pointer;
+	cursor: url("cursors/cursor.cur"), auto;
 }
 
 .rexxcredits {
