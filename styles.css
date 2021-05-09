@@ -9,7 +9,7 @@ body {
 }
 
 html {
-	cursor: url("cursors/cursor.cur"), default;
+	cursor: url("cursors/cursor.cur"), pointer;
 }
 
 a:hover {
