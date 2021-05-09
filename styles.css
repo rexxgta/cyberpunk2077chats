@@ -13,7 +13,7 @@ html {
 }
 
 a:hover {
-   cursor: url("cursors/cursor_hover.cur"), pointer;
+   cursor: url("cursors/cursor.cur"), pointer;
 }
 
 .rexxcredits {
