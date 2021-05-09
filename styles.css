@@ -8,6 +8,10 @@ body {
 	
 }
 
+.cursorpointer {
+	cursor: url("cursors/cursor_hover.cur");
+}
+
 .rexxcredits {
 	width: 800px;
 	margin-top: -68px;
