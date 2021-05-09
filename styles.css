@@ -12,6 +12,10 @@ html {
 	cursor: url("cursors/cursor.cur"), pointer;
 }
 
+a:hover {
+   cursor: url("cursors/cursor.cur"), pointer;
+}
+
 .rexxcredits {
 	width: 800px;
 	margin-top: -68px;
