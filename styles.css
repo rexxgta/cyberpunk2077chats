@@ -9,11 +9,11 @@ body {
 }
 
 html {
-	cursor: url("cursors/cursor.cur"), pointer;
+	cursor: url("cursors/cursor.cur"), auto;
 }
 
 a:hover {
-   cursor: url("cursors/cursor.cur"), pointer;
+   cursor: url("cursors/cursor_hover.cur"), pointer;
 }
 
 .rexxcredits {
