@@ -12,8 +12,8 @@ html {
 	cursor: url("cursors/cursor.cur"), auto;
 }
 
-a:hover {
-   cursor: url("cursors/cursor_hover.cur"), pointer;
+.pointercursor {
+        cursor: url("cursors/cursor_hover.cur"), pointer;
 }
 
 .rexxcredits {
