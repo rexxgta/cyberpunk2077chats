@@ -4,6 +4,7 @@ body {
 	background-color: black;
 	background-repeat: no-repeat;
 	background-size: cover;
+        background-position: center;
 	height: 1080px;
 	
 }
